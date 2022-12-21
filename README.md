@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Harvey_etal_2023_GEB
 
 Data accompanying the manuscript 'Spatial interactions among short-interval fires reshape forest landscapes' by Harvey, Buonanduci, and Turner published in Global Ecology and Biogeography.
