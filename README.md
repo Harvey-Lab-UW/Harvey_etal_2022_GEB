@@ -3,6 +3,8 @@
 Data accompanying the manuscript 'Spatial interactions among short-interval fires reshape forest landscapes' by Harvey, Buonanduci, and Turner published in Global Ecology and Biogeography.
 See the main text of the manuscript for complete description of data processing.
 
+[![DOI](https://zenodo.org/badge/571727099.svg)](https://zenodo.org/badge/latestdoi/571727099)
+
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
 This information is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
